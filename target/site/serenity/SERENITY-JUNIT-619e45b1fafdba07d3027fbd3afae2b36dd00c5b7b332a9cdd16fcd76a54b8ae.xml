@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="colpatria" skipped="0" tests="1" time="3.03" timestamp="2021-09-27 10:15:36"><testcase name="entry avianca page and purchase a flight"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89&#10;Current browser version is 94.0.4606.61 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-N1CMAE7', ip: '10.13.24.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x003DE7D3+124883]&#10;&#9;Ordinal0 [0x003DE7B1+124849]&#10;&#9;GetHandleVerifier [0x00628688+193832]&#10;&#9;GetHandleVerifier [0x00643AC5+305509]&#10;&#9;GetHandleVerifier [0x0064021B+291003]&#10;&#9;GetHandleVerifier [0x0063E0AC+282444]&#10;&#9;GetHandleVerifier [0x00664A90+440624]&#10;&#9;GetHandleVerifier [0x006647FC+439964]&#10;&#9;GetHandleVerifier [0x0066154B+426987]&#10;&#9;GetHandleVerifier [0x00644FFD+310941]&#10;&#9;GetHandleVerifier [0x00645D8E+314414]&#10;&#9;GetHandleVerifier [0x00645D19+314297]&#10;&#9;GetHandleVerifier [0x007031EC+1089676]&#10;&#9;GetHandleVerifier [0x007017C9+1082985]&#10;&#9;GetHandleVerifier [0x007013A3+1081923]&#10;&#9;GetHandleVerifier [0x007FD9FD+2115741]&#10;&#9;Ordinal0 [0x0052B82E+1488942]&#10;&#9;Ordinal0 [0x004C5A7D+1071741]&#10;&#9;Ordinal0 [0x004C559B+1070491]&#10;&#9;Ordinal0 [0x004C54B1+1070257]&#10;&#9;Ordinal0 [0x004FFF53+1310547]&#10;&#9;BaseThreadInitThunk [0x779DFA29+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77B57A9E+286]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77B57A6E+238]&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89
+Current browser version is 94.0.4606.61 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N1CMAE7', ip: '10.13.24.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x003DE7D3+124883]
+	Ordinal0 [0x003DE7B1+124849]
+	GetHandleVerifier [0x00628688+193832]
+	GetHandleVerifier [0x00643AC5+305509]
+	GetHandleVerifier [0x0064021B+291003]
+	GetHandleVerifier [0x0063E0AC+282444]
+	GetHandleVerifier [0x00664A90+440624]
+	GetHandleVerifier [0x006647FC+439964]
+	GetHandleVerifier [0x0066154B+426987]
+	GetHandleVerifier [0x00644FFD+310941]
+	GetHandleVerifier [0x00645D8E+314414]
+	GetHandleVerifier [0x00645D19+314297]
+	GetHandleVerifier [0x007031EC+1089676]
+	GetHandleVerifier [0x007017C9+1082985]
+	GetHandleVerifier [0x007013A3+1081923]
+	GetHandleVerifier [0x007FD9FD+2115741]
+	Ordinal0 [0x0052B82E+1488942]
+	Ordinal0 [0x004C5A7D+1071741]
+	Ordinal0 [0x004C559B+1070491]
+	Ordinal0 [0x004C54B1+1070257]
+	Ordinal0 [0x004FFF53+1310547]
+	BaseThreadInitThunk [0x779DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57A6E+238]
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89
+Current browser version is 94.0.4606.61 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N1CMAE7', ip: '10.13.24.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x003DE7D3+124883]
+	Ordinal0 [0x003DE7B1+124849]
+	GetHandleVerifier [0x00628688+193832]
+	GetHandleVerifier [0x00643AC5+305509]
+	GetHandleVerifier [0x0064021B+291003]
+	GetHandleVerifier [0x0063E0AC+282444]
+	GetHandleVerifier [0x00664A90+440624]
+	GetHandleVerifier [0x006647FC+439964]
+	GetHandleVerifier [0x0066154B+426987]
+	GetHandleVerifier [0x00644FFD+310941]
+	GetHandleVerifier [0x00645D8E+314414]
+	GetHandleVerifier [0x00645D19+314297]
+	GetHandleVerifier [0x007031EC+1089676]
+	GetHandleVerifier [0x007017C9+1082985]
+	GetHandleVerifier [0x007013A3+1081923]
+	GetHandleVerifier [0x007FD9FD+2115741]
+	Ordinal0 [0x0052B82E+1488942]
+	Ordinal0 [0x004C5A7D+1071741]
+	Ordinal0 [0x004C559B+1070491]
+	Ordinal0 [0x004C54B1+1070257]
+	Ordinal0 [0x004FFF53+1310547]
+	BaseThreadInitThunk [0x779DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57A6E+238]
+). See below for more details.&#13;
+com.avianca.pages.AviancaStep.openApplication(AviancaStep.java:12)&#13;
+com.avianca.definitions.AviancaDefinitions.entry_to_avianca$(AviancaDefinitions.java:16)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
